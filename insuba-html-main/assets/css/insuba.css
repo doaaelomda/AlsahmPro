@@ -6911,6 +6911,7 @@ body.megamenu-popup-active .mobile-nav__content {
   color: var(--insuba-white, #ffffff);
   font-weight: 400;
   line-height: 1.8125;
+  font-size: 20px;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   .footer-widget__about {
@@ -6943,6 +6944,7 @@ body.megamenu-popup-active .mobile-nav__content {
   color: inherit;
   background: linear-gradient(to right, currentcolor 0%, currentcolor 100%) 0px 95%/0px 1px no-repeat;
   transition: all 500ms ease;
+  font-size: 18px;
 }
 .footer-widget__links li a:hover {
   background-size: 100% 1px;
@@ -6959,7 +6961,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .footer-widget__info li {
   display: flex;
   gap: 10px;
-  font-size: 16px;
+  font-size: 18px;
   color: var(--insuba-white, #ffffff);
   font-weight: 400;
   line-height: 1.75;
